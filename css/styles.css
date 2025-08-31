@@ -93,6 +93,7 @@ a {
 .order-button:hover,
 .order-button:focus {
         background: #404bbf;
+        cursor: pointer;
 }
 
 /* ----------- Features --------------- */
