@@ -20,3 +20,14 @@ part 2 -
    have different colour and give a class
 
 8. we learned hover
+
+.visually-hidden {
+position: absolute;
+padding: 0;
+margin: -1px;
+overflow: hidden;
+clip: rect(0, 0, 0, 0);
+white-space: nowrap;
+border: 0;
+clip-path: inset(100%);
+}
